@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/go-playground/validator/v10"
+	"github.com/yule526751/validator/v10"
 )
 
 // DbBackedUser User struct
